@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A new developer is born! (or I hope so...) 
+A new developer is born! (or I hope so...)  
 With the Covid19 pandemy, I started to study programming stuff. 
 
 🌱 I’m currently learning ...
