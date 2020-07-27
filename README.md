@@ -5,8 +5,10 @@ With the Covid19 pandemy, I started to study programming stuff.
 
 🌱 I’m currently learning ...
  - Java
- - JavaFX
  - Spring Framework
+ - JavaScript
+ - HTML
+ - CSS
 
 <!--
 **romeucr/romeucr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
