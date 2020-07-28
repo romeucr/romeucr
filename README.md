@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-A new developer is born! (or I hope so...)  
-With the Covid19 pandemy, I started to study programming stuff. 
+Started to study programming stuff while in quarantine because of Covid-19. 
 
 🌱 I’m currently learning ...
  - Java
