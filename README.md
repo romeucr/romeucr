@@ -9,6 +9,7 @@ Started to study programming stuff while in quarantine because of Covid-19.
  - HTML
  - CSS
  - React Native
+ - ReactJS
 
 <!--
 **romeucr/romeucr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
