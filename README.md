@@ -6,6 +6,8 @@ Started to study programming stuff while in quarantine because of Covid-19.
  - Java
  - Spring Framework
  - JavaScript
+ - Typescript
+ - JQuery
  - HTML
  - CSS
  - React Native
